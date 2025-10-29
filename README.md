@@ -12,6 +12,4 @@
 * Cosy Baking on Sundays 🧁
 * Starting the day with a good coffee ☕
 ---
-## Currently listening to:
 
----
