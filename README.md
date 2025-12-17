@@ -44,3 +44,5 @@ I bring a background in CRM and online marketing and enjoy applying that perspec
 💼 [LinkedIn](https://linkedin.com/in/johanna-winter)
 
 ![snake gif](https://github.com/johanna-winter/johanna-winter/blob/output/github-contribution-grid-snake.svg)
+
+---
