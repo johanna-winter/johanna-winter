@@ -1,7 +1,7 @@
 ---
 
 # Hi, I'm Johanna 👋
-### Web Developer · Background in CRM & Online Marketing · Berlin
+### Full Stack Engineer · Background in CRM & Online Marketing · Berlin
 ### 👩🏼‍💻 About Me
 Driven by curiosity, bold ambitions, and a love for clean, functional code.
 I bring a background in CRM and online marketing and enjoy applying that perspective when building web applications.  
